@@ -106,7 +106,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/controller/GoodsController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
+            <state relative-caret-position="100">
               <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -158,6 +158,9 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/resources/applicationContext-Shiro.xml" root0="SKIP_INSPECTION" />
@@ -226,9 +229,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="150" />
-    <option name="y" value="22" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="22" />
+    <option name="y" value="44" />
     <option name="width" value="1278" />
     <option name="height" value="679" />
   </component>
@@ -286,6 +289,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -436,7 +440,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572087917413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572088442409" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -578,7 +582,7 @@
       <updated>1572003044060</updated>
       <workItem from="1572003050586" duration="5087000" />
       <workItem from="1572010095755" duration="595000" />
-      <workItem from="1572048379411" duration="24922000" />
+      <workItem from="1572048379411" duration="25445000" />
     </task>
     <servers />
   </component>
@@ -600,10 +604,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30604000" />
+    <option name="totallyTimeSpent" value="31127000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="108" y="25" width="1278" height="679" extended-state="0" />
+    <frame x="150" y="22" width="1278" height="679" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -613,10 +617,10 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="Web" order="5" side_tool="true" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.07553366" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.23891626" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.109195404" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.10940499" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.14750957" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -917,7 +921,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/qf/controller/GoodsController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
+        <state relative-caret-position="100">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
