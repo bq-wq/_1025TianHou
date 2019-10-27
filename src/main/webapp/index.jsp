@@ -13,7 +13,7 @@
             <a href="${pageContext.request.contextPath}/user/logout">登出</a>
         </div>
     </shiro:user>
-
+    <a href="${pageContext.request.contextPath}/goods/select"> 显示商品！</a>
     <a href="${pageContext.request.contextPath}/goods/goods"> 添加商品！</a>
 </h2>
 </body>

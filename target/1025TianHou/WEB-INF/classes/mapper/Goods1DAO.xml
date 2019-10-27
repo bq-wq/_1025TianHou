@@ -11,6 +11,10 @@
 
     </insert>
 
+    <select id="selectall" resultType="Goods1">
+
+        select * from goods1
+    </select>
 
 
 </mapper>

@@ -11,6 +11,19 @@
 
     </insert>
 
+    <select id="selectall" resultType="Goods1">
 
+        select * from goods1
+    </select>
+
+    <select id="selecById" >
+        select * from goods1 where  id =#{id};
+
+    </select>
+
+    <update id="updateGoods" >
+        update  goods1 set title=#{title},imapath=#{imapath},price=#{price} where id=#{id}
+
+    </update>
 
 </mapper>
